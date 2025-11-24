@@ -1,4 +1,3 @@
-# Sip-Happens
-<p align="center"> <img src="https://i.imgur.com/1Qe4W9F.png" width="250px" alt="Sip Happens Cafe Logo"/> </p>
-Sip Happens – A Java console café system that serves mood-based drink recommendations. 🌙☕ Personalize your orders, browse an aesthetic menu, and enjoy a warm, interactive café experience while learning OOP principles.
+🌙 Sip Happens Café ☕✨
+Sip Happens Café is a Java console-based café simulator that brings your moods to life with delightful drinks. From matcha lattes to dreamy smoothies, this interactive program lets you order, explore, and experience a café environment, all from your terminal.
 
