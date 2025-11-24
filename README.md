@@ -183,9 +183,9 @@ You’ll be greeted with the full menu and interactive experience.
 
 | Photo | Name | Role |
 |-------|------|------|
-| ![Head Brewmaster](images/Head_Brewmaster.jpg) | John Joseph Dimatulac | ☕ Head Brewmaster & Java Whisperer |
-| ![Mood Alchemist](images/Mood_Alchemist.jpg) | Sheri Lou Hong | 🌿 Mood Alchemist & Drink Conjurer |
-| ![Order Flow Assistant](images/Order_Flow_Assistant.jpg) | Stella Abigail Verana | 🫖 Order Flow Guardian & Assistant Barista |
+| ![Head Brewmaster](images/Head_Brewmaster.jpg) | John Joseph Dimatulac | ☕ Brewmaster |
+| ![Mood Alchemist](images/Mood_Alchemist.jpg) | Sheri Lou Hong | 🫖 Order Flow Guardian |
+| ![Order Flow Assistant](images/Order_Flow_Assistant.jpg) | Stella Abigail Verana | 🌿 Mood Alchemist & Drink Conjurer |
 
 </div>
 
