@@ -15,7 +15,7 @@ Sip Happens Café is a whimsical Java console café that turns your moods into f
 The system showcases the four core Object-Oriented Programming (OOP) principles — encapsulation, inheritance, abstraction, and polymorphism — through its well-structured classes and dynamic behavior. Using maps, lists, exceptions, and customizable user input, the project simulates a simple café environment while demonstrating clean and organized programming practices.
 
 ## Object-Oriented Principles  
-| Principle      | Description                                                                 | Key Examples                                                                                     |
+| Principle       | Description                                                                 | Key Examples                                                                                     |
 |----------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | 🔒 Encapsulation | Fields are private; data accessed only through getters/setters.               | - Private fields in `Drink`, `Coffee`, `Tea`, `Smoothie`                                              |
 |                | Prevents invalid states and protects internal data.                           | - Cart and menu stored internally inside Order/Menu classes                                     |
