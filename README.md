@@ -68,6 +68,56 @@ Your drink is ready!
 "Every sunrise tastes like another chance to begin again."
 Ingredients: vanilla, honey, oat milk, dash of cinnamon
 Price: ₱140.00
+
+Add this to cart? (yes/no) > yes
+Quantity > 2
+Added 2 x Sunrise Vanilla Bliss to cart.
+```
+
+**Direct Drink Selection**
+```
+> Berry Bloom Blizz
+────────── ✧ DRINK PREVIEW ✧ ──────────
+   Berry Bloom Blizz 🍓
+"Let happiness bubble — you deserve to sparkle today."
+Ingredients: strawberry, raspberry, soda water, mint leaves
+Price: ₱150
+───────────────────────────────────────
+
+Add to cart? (yes/no) > yes
+Quantity > 1
+Added 1 x Berry Bloom Blizz to cart.
+```
+
+**Viewing the Cart**
+
+```
+Your sip choice: cart
+
+────────── ✧ CURRENT CART ✧ ──────────
+Sunrise Vanilla Bliss        x2    ₱280.00
+Berry Bloom Blizz            x1    ₱150.00
+-----------------------------------------
+TOTAL: ₱430.00
+─────────────────────────────────────────
+```
+
+**Checkout & Receipt**
+```
+Your sip choice: checkout
+
+May I have your name, please? Emmanuel
+
+────────── ✧ FINAL RECEIPT ✧ ──────────
+Customer: Emmanuel ⭐
+Sunrise Vanilla Bliss        x2    ₱280.00
+Berry Bloom Blizz            x1    ₱150.00
+-----------------------------------------
+TOTAL                         ₱430.00
+-----------------------------------------
+"Thank you, Emmanuel! Your presence warmed our café 🌙"
+Enjoy your brews — see you again ✨
+─────────────────────────────────────────
 ```
 
 
