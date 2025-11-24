@@ -44,11 +44,12 @@ This project demonstrates OOP concepts, exception handling, collections, and int
 ## 🖼️ Sample Interaction  
 
 **Menu Display**
-`╔══════════ ✧ DRINK MENU ✧ ══════════╗
+```
+╔══════════ ✧ DRINK MENU ✧ ══════════╗
  Distracted  — Evergreen Iced Matcha       ₱160 🍃
  Joyful      — Berry Bloom Blizz           ₱150 🍓
  Anxious     — Lavender Serenity Latte     ₱150 💜
-╚══════════════════════════════════════╝`
+╚══════════════════════════════════════╝
 
 
 
