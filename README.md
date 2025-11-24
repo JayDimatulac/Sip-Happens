@@ -167,7 +167,6 @@ javac SipHappens.java
     
  ```
 You’ll be greeted with the full menu and interactive experience.  
-You’ll be greeted with the full menu and interactive experience.
 
 Step 4: Optional — IntelliJ Magic
 
