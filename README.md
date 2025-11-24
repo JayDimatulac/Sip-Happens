@@ -51,3 +51,26 @@ This project demonstrates OOP concepts, exception handling, collections, and int
  Nostalgic   — Caramel Memory Mocha     ₱170.00 🍫
  ......
 ╚══════════════════════════════════════╝
+```
+
+**Mood-Based Recommendation**
+```
+> mood hopeful
+────────── ✧ Mood Detected ✧ ──────────
+ HOPEFUL 
+"Every sunrise tastes like another chance to begin again."
+────────── ✧ Mood Detected ✧ ──────────
+✨ Brewing your Sunrise Vanilla Bliss...
+🧊 Blending until smooth and bright...
+
+Your drink is ready!
+* SUNRISE VANILLA BLISS *
+"Every sunrise tastes like another chance to begin again."
+Ingredients: vanilla, honey, oat milk, dash of cinnamon
+Price: ₱140.00
+```
+
+
+
+
+
