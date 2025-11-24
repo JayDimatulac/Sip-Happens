@@ -1,4 +1,5 @@
-# 🌙 Sip Happens Café ☕✨
+# 🌙 Sip Happens Café ☕✨  
+
 
 ## ✧ Overview
 Sip Happens Café is a whimsical Java console café that turns your moods into flavorful experiences. Whether you’re craving a cozy matcha latte, a dreamy smoothie, or just a moment of virtual escape, this interactive program lets you sip, savor, and explore the charm of café life—right from the comfort of your terminal. Every choice you make is a small adventure in taste and mood, blending the joy of drinks with a dash of playful interactivity. 
@@ -12,7 +13,8 @@ Sip Happens Café is a whimsical Java console café that turns your moods into f
 🧃 Browse drinks directly by name
 💡User-Friendly Commands - Navigate easily using `menu`, `mood`, `suggest`, `cart`, and `checkout`.  
 
-The system showcases the four core Object-Oriented Programming (OOP) principles — encapsulation, inheritance, abstraction, and polymorphism — through its well-structured classes and dynamic behavior. Using maps, lists, exceptions, and customizable user input, the project simulates a simple café environment while demonstrating clean and organized programming practices.
+The system showcases the four core Object-Oriented Programming (OOP) principles — encapsulation, inheritance, abstraction, and polymorphism — through its well-structured classes and dynamic behavior. Using maps, lists, exceptions, and customizable user input, the project simulates a simple café environment while demonstrating clean and organized programming practices.  
+
 
 ## Object-Oriented Principles  
 | Principle       | Description                                                                 | Key Examples                                                                                     |
@@ -27,6 +29,17 @@ The system showcases the four core Object-Oriented Programming (OOP) principles 
 | 🔁 Polymorphism  | Same method call behaves differently depending on subclass.                   | - Single list storing many drink types                                                           |
 |                | Enables flexible and uniform handling of different drink objects.             | - `getDetails()` or `brew()` call executes subclass version                                          |
 |                |                                                                               | - Recommendations return `Drink` regardless of subclass                                            |
+
+
+## ✨ Features
+| Feature                     | Description                                                    |
+| --------------------------- | -------------------------------------------------------------- |
+| 🌸 **Aesthetic Drink Menu** | Browse unique, themed drinks with emojis and prices            |
+| 🎭 **Mood Detection**       | Enter your mood and get a personalized drink recommendation    |
+| 🛒 **Cart System**          | Add multiple drinks with quantities and view your current cart |
+| 🧾 **Checkout & Receipt**   | Generate a formatted receipt with totals and your name         |
+| 💡 **Interactive Commands** | `menu`, `mood <mood>`, `suggest`, `cart`, `checkout`, `exit`   |
+
 
 
 
