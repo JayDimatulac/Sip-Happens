@@ -53,6 +53,22 @@ This project demonstrates OOP concepts, exception handling, collections, and int
 ╚══════════════════════════════════════╝
 ```
 
+**Asking or Help**
+
+```
+Your sip choice: help
+
+Commands:
+  menu       — Show the full drink menu
+  mood <mood>— Ask by mood (e.g., mood anxious)
+  suggest    — Let the cafe ask how you're feeling and suggest
+  <drink>    — Type a drink name exactly to add it to cart
+  cart       — View your cart
+  checkout   — Finish and pay
+  help       — Show this help
+  exit       — Exit the café
+```
+
 **Mood-Based Recommendation**
 ```
 > mood hopeful
@@ -119,6 +135,15 @@ TOTAL                         ₱430.00
 Enjoy your brews — see you again ✨
 ─────────────────────────────────────────
 ```
+
+**Exiting the Café**
+```
+Your sip choice: exit
+
+"May your days stay warm, and your heart stay full."
+🌙 Sip Happens Café — come back when your mood seeks another flavor.
+```
+
 
 
 
