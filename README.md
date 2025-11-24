@@ -13,10 +13,10 @@ Sip Happens Café is a whimsical Java console café that turns your moods into f
 🧃 Browse drinks directly by name
 💡User-Friendly Commands - Navigate easily using `menu`, `mood`, `suggest`, `cart`, and `checkout`.  
 
-The system showcases the four core Object-Oriented Programming (OOP) principles — encapsulation, inheritance, abstraction, and polymorphism — through its well-structured classes and dynamic behavior. Using maps, lists, exceptions, and customizable user input, the project simulates a simple café environment while demonstrating clean and organized programming practices.  
+This project demonstrates OOP concepts, exception handling, collections, and interactive console input, blending learning with an engaging café-like experience. 
 
 
-## Object-Oriented Principles  
+## 🧠 Object-Oriented Principles  
 | Principle       | Description                                                                 | Key Examples                                                                                     |
 |----------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | 🔒 Encapsulation | Fields are private; data accessed only through getters/setters.               | - Private fields in `Drink`, `Coffee`, `Tea`, `Smoothie`                                              |
@@ -39,6 +39,19 @@ The system showcases the four core Object-Oriented Programming (OOP) principles 
 | 🛒 **Cart System**          | Add multiple drinks with quantities and view your current cart |
 | 🧾 **Checkout & Receipt**   | Generate a formatted receipt with totals and your name         |
 | 💡 **Interactive Commands** | `menu`, `mood <mood>`, `suggest`, `cart`, `checkout`, `exit`   |
+
+
+## 🖼️ Sample Interaction  
+
+**Menu Display**
+`╔══════════ ✧ DRINK MENU ✧ ══════════╗
+ Distracted  — Evergreen Iced Matcha       ₱160 🍃
+ Joyful      — Berry Bloom Blizz           ₱150 🍓
+ Anxious     — Lavender Serenity Latte     ₱150 💜
+╚══════════════════════════════════════╝`
+
+
+
 
 
 
