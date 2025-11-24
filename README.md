@@ -5,11 +5,11 @@ Sip Happens Café is a whimsical Java console café that turns your moods into f
 
 Key functionalities include:  
 
-🍂 Full Café Menu  
-🎭 Mood-Based Recommendations  
-🛒 Interactive Cart System  
-🧾 Checkout & Receipt  
-💡User-Friendly Commands  
+🍂 Full Café Menu - Browse aesthetically named drinks with emojis and prices  
+🎭 Mood-Based Recommendations - Receive drinks that match your current emotional  
+🛒 Interactive Cart System - Add drinks, choose quantities, view totals  
+🧾 Checkout & Receipt - enerate a clean, formatted receipt with your name and drinks
+💡User-Friendly Commands - Navigate easily using **menu**, **mood**, **suggest**, **cart**, and **checkout**
 
 
 
