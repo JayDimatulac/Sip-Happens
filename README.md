@@ -177,11 +177,20 @@ You’ll be greeted with the full menu and interactive experience.
 
 💡 Pro Tip: IntelliJ offers live syntax hints, error detection, and debugging tools—perfect for experimenting with new drinks or adding features to your café code.
 
-| Role                                           | Name                       | Photo                                |
-| ---------------------------------------------- | -------------------------- | ------------------------------------ |
-| ☕ **Head Brewmaster & Java Whisperer**         | **Dimatulac, John Joseph** | ![John Joseph](images/john.jpg)      |
-| 🌿 **Mood Alchemist & Drink Conjurer**         | **Hong, Sheri Lou**        | ![Sheri Lou](images/sheri.jpg)       |
-| 🫖 **Order Flow Guardian & Assistant Barista** | **Verana, Stella Abigail** | ![Stella Abigail](images/stella.jpg) |
+### 🌙 The Baristas Behind *Sip Happens*
+
+<div align="center">
+
+| Photo | Name | Role |
+|-------|------|------|
+| ![Head Brewmaster](images/Head_Brewmaster.jpg) | John Joseph Dimatulac | ☕ Head Brewmaster & Java Whisperer |
+| ![Mood Alchemist](images/Mood_Alchemist.jpg) | Sheri Lou Hong | 🌿 Mood Alchemist & Drink Conjurer |
+| ![Order Flow Assistant](images/Order_Flow_Assistant.jpg) | Stella Abigail Verana | 🫖 Order Flow Guardian & Assistant Barista |
+
+</div>
+
+> ✨ Every sip of this program reflects teamwork, creativity, and a sprinkle of debugging magic.
+
 
 
 
