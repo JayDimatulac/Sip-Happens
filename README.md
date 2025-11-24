@@ -71,7 +71,7 @@ Commands:
 
 **Mood-Based Recommendation**
 ```
-> mood hopeful
+Your sip choice: mood hopeful
 ────────── ✧ Mood Detected ✧ ──────────
  HOPEFUL 
 "Every sunrise tastes like another chance to begin again."
@@ -92,7 +92,7 @@ Added 2 x Sunrise Vanilla Bliss to cart.
 
 **Direct Drink Selection**
 ```
-> Berry Bloom Blizz
+Your sip choice: Berry Bloom Blizz
 ────────── ✧ DRINK PREVIEW ✧ ──────────
    Berry Bloom Blizz 🍓
 "Let happiness bubble — you deserve to sparkle today."
