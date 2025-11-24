@@ -184,13 +184,15 @@ You’ll be greeted with the full menu and interactive experience.
 
 | Photo | Name | Role |
 |-------|------|------|
-| ![Head Brewmaster](images/Head_Brewmaster.jpg) | John Joseph Dimatulac | ☕ Brewmaster |
+| ![Head Brewmaster](assets/john.jpg) | John Joseph Dimatulac | ☕ Brewmaster |
 | ![Mood Alchemist](images/Mood_Alchemist.jpg) | Sheri Lou Hong | 🫖 Order Flow Guardian |
 | ![Order Flow Assistant](images/Order_Flow_Assistant.jpg) | Stella Abigail Verana | 🌿 Mood Alchemist & Drink Conjurer |
 
 </div>
 
 > ✨ Every sip of this program reflects teamwork, creativity, and a sprinkle of debugging magic.
+
+
 
 
 
