@@ -1,4 +1,5 @@
-# 🌙 Sip Happens Café ☕✨  
+<h1 align="center">🌙 Sip Happens Café ☕✨</h1>
+
 
 
 ## ✧ Overview
