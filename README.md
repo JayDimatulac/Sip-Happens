@@ -145,6 +145,46 @@ Your sip choice: exit
 ```
 
 
+## Brewing the Program
+To fully enjoy the Sip Happens Café experience, we recommend using IntelliJ IDEA Community Edition 2025.2 for a smooth coding and running experience. You can grab it **[here](https://www.jetbrains.com/idea/download/)**.
+
+**Step 1: Prepare the Code**
+      Save your Java file as:
+```
+SipHappens.java
+
+```
+**Step 2: Compile the Program**
+      Open your terminal or command prompt, navigate to the folder, and mix your code together with:
+```
+javac SipHappens.java
+
+```
+**Step 3: Run the Café**
+     Now it’s time to serve your virtual café! Start the program by typing:
+ ```
+ java SipHappens
+    
+ ```
+You’ll be greeted with the full menu and interactive experience.  
+You’ll be greeted with the full menu and interactive experience.
+
+Step 4: Optional — IntelliJ Magic
+
+Open IntelliJ IDEA.
+
+Select Open Project and choose your SipHappens folder.
+
+IntelliJ will detect your Java file automatically.
+
+Click Run (or press Shift + F10) to start your café without touching the terminal.
+
+💡 Pro Tip: IntelliJ offers live syntax hints, error detection, and debugging tools—perfect for experimenting with new drinks or adding features to your café code.
+
+
+
+
+
 
 
 
