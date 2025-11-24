@@ -46,8 +46,8 @@ This project demonstrates OOP concepts, exception handling, collections, and int
 **Menu Display**
 ```
 ╔══════════ ✧ DRINK MENU ✧ ══════════╗
- Distracted  — Evergreen Iced Matcha       ₱160 🍃
- Joyful      — Berry Bloom Blizz           ₱150 🍓
- Anxious     — Lavender Serenity Latte    ₱150 💜
+ Reflective  — Autumn Chai Calm         ₱145.00 🍂
+ Joyful      — Berry Bloom Blizz        ₱150.00 🍓
+ Nostalgic   — Caramel Memory Mocha     ₱170.00 🍫
  ......
 ╚══════════════════════════════════════╝
