@@ -154,13 +154,13 @@ To fully enjoy the Sip Happens Café experience, we recommend using IntelliJ IDE
 SipHappens.java
 
 ```
-**Step 2: Compile the Program**
+**Step 2: Compile the Program**  
       Open your terminal or command prompt, navigate to the folder, and mix your code together with:
 ```
 javac SipHappens.java
 
 ```
-**Step 3: Run the Café**
+**Step 3: Run the Café**  
      Now it’s time to serve your virtual café! Start the program by typing:
  ```
  java SipHappens
@@ -168,15 +168,12 @@ javac SipHappens.java
  ```
 You’ll be greeted with the full menu and interactive experience.  
 
-Step 4: Optional — IntelliJ Magic
+**Step 4: Optional — IntelliJ Magic**  
 
-Open IntelliJ IDEA.
-
-Select Open Project and choose your SipHappens folder.
-
-IntelliJ will detect your Java file automatically.
-
-Click Run (or press Shift + F10) to start your café without touching the terminal.
++ Open IntelliJ IDEA.
++ Select Open Project and choose your SipHappens folder.
++ IntelliJ will detect your Java file automatically.
++ Click Run (or press Shift + F10) to start your café without touching the terminal.
 
 💡 Pro Tip: IntelliJ offers live syntax hints, error detection, and debugging tools—perfect for experimenting with new drinks or adding features to your café code.
 
