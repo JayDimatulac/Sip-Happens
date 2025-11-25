@@ -188,8 +188,8 @@ You’ll be greeted with the full menu and interactive experience.
 | Photo | Name | Role |
 |-------|------|------|
 | <img src="assets/john.JPG" width="140"/> | John Joseph Dimatulac | ☕ Brewmaster |
-| <img src="assets/Shery.JPG" width="100"/> | Sheri Lou Hong | 🫖 Order Flow Guardian |
-| <img src="assets/stella.JPG" width="100"/> | Stella Abigail Verana | 🌿 Mood Alchemist |
+| <img src="assets/shery.jpg" width="100"/> | Sheri Lou Hong | 🫖 Order Flow Guardian |
+| <img src="assets/stella.jpg" width="100"/> | Stella Abigail Verana | 🌿 Mood Alchemist |
 
 </div>
 
