@@ -1,7 +1,7 @@
 <h1 align="center">🌙 Sip Happens Café ☕✨</h1>
 
 <div align="center">
-  <img src="assets/Sip%20Happens%(1).png" alt="Sip Happens Logo" width="1000"/>
+  <img src="assets/Sip%20Happens%20(1).png" alt="Sip Happens Logo" width="1000"/>
 </div>
 
 
