@@ -42,7 +42,13 @@ This project demonstrates OOP concepts, exception handling, collections, and int
 | 🎭 **Mood Detection**       | Enter your mood and get a personalized drink recommendation    |
 | 🛒 **Cart System**          | Add multiple drinks with quantities and view your current cart |
 | 🧾 **Checkout & Receipt**   | Generate a formatted receipt with totals and your name         |
-| 💡 **Interactive Commands** | `menu`, `mood <mood>`, `suggest`, `cart`, `checkout`, `exit`   |
+| 💡 **Interactive Commands** | `menu`, `mood <mood>`, `suggest`, `cart`, `checkout`, `exit`   |  
+
+## 📊 UML DIAGRAM 
+
+<div align="center">
+  <img src="assets/Sip%20Happens%20UML.png" alt="Sip Happens Logo" width="1000"/>
+</div>
 
 
 ## 🖼️ Sample Interaction  
