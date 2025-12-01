@@ -46,7 +46,7 @@ This project demonstrates OOP concepts, exception handling, collections, and int
 
 ## 📊 UML DIAGRAM 
 
-<img src="assets/SIP%20HAPPENS%20UML.png" alt="Sip Happens UML Diagram" width="1000"/>
+<img src="assets/SIP%20HAPPENS%20UML.png" alt="Sip Happens UML Diagram" width="300"/>
 
 
 
